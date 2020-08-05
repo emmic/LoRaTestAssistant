@@ -1,0 +1,24 @@
+******** xxx ********
+******************* GDI DUMP => Date : Wed Aug 05 20:31:10 2020
+
+DLL opened
+Routine connected
+STLink device connected
+Enter SWIM mode
+No answer from SWIM target
+No answer from SWIM target
+No answer from SWIM target
+No answer from SWIM target
+No answer from SWIM target
+Too many communication errors in ManageSwimCommError
+Error in STLink::Reset(2)
+Failure resetting SWIM communication after comm error
+Error in STLink::Reset(2)
+Failure resetting SWIM communication after comm error
+Error in STLink::Reset(2)
+Failure resetting SWIM communication after comm error
+Error in STLink::Reset(2)
+Failure resetting SWIM communication after comm error
+Error in STLink::Reset(0)
+Failed entering swim mode
+**** End of GDI DUMP ****
