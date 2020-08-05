@@ -6,3 +6,5 @@ py3 + tkin
 2.统计数据包，计算丢包率
 
 需要配合矢量信号发生器使用
+
+![image](https://github.com/emmic/LoRaTestAssistant/blob/master/screenshot/mainFrame.png)
