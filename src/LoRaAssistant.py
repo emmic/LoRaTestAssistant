@@ -629,6 +629,7 @@ def ClearAll():
         totalPacketErrorRate = 0.00
         dingTimes = 0
         wangTimes = 0
+        os.system('cls')
         
         global PERTxt
         PERTxt['text'] = " 0.00"+ ' % |   '
